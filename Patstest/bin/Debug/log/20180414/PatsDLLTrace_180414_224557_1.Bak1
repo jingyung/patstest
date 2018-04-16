@@ -1,0 +1,21 @@
+PATSAPI v2.8.3 started at 14/04/2018 22:45:57.
+InterfaceVersion: v2.8.3SP6
+ProductVersion:   8.9.0
+PrivateBuild:     112901
+
+22:45:58.184 TConnection.TriggerConnection - Timer counter > timer interval...
+22:45:58.187 psHost TProcessBuffer.Execute - Start - Thread ID: 992
+22:46:03.184 TConnection.TriggerConnection - Timer counter > timer interval...
+22:46:03.284 StateChanged result = wrSignaled 3/1
+22:46:03.441 StateChanged result = wrSignaled 4/3
+22:46:03.441 Outgoing message: Msg=3361Snt=20180414224603
+22:46:03.700 TFieldsList.SetFields: Msg=3624?Snt=20180414224603?Rx=15:46:03?EnT=SHA-256?
+22:46:08.442 Outgoing message: Msg=3362Usr=APPID_031Pwd=9de9e98c5927ce22c253d648e06f5d77c30657c15e693bd2c60188badde6015fFrq=20AID=APPID_031Lnc=BETACoG=CFlg=126RSq=0API=8.9.0Seq=0
+22:46:08.700 TFieldsList.SetFields: Msg=3626?Txt=All logons are disabled?Sts=2?
+22:46:08.700 Unsubscribetoall end
+22:46:08.700 MarketUnsubscribetoall start
+22:46:08.700 MarketUnsubscribetoall end
+22:46:10.184 Timer thread ending...
+22:46:11.300 Garbage Clearing For Reconnection - Start
+22:46:19.300 Garbage Clearing - End
+22:46:24.300  TProcessBuffer.Execute - End - Thread ID: 992

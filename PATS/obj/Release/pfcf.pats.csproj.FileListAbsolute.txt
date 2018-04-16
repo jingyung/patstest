@@ -1,0 +1,8 @@
+E:\myproject\patapitest\PATS\bin\Release\PATSAPI.dll
+E:\myproject\patapitest\PATS\bin\Release\SSLSocketLib.dll
+E:\myproject\patapitest\PATS\bin\Release\pfcf.pats.dll
+E:\myproject\patapitest\PATS\bin\Release\pfcf.pats.pdb
+E:\myproject\patapitest\PATS\obj\Release\pfcf.pats.csprojResolveAssemblyReference.cache
+E:\myproject\patapitest\PATS\obj\Release\pfcf.pats.csproj.CoreCompileInputs.cache
+E:\myproject\patapitest\PATS\obj\Release\pfcf.pats.dll
+E:\myproject\patapitest\PATS\obj\Release\pfcf.pats.pdb

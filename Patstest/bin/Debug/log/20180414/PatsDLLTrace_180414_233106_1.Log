@@ -1,0 +1,7 @@
+PATSAPI v2.8.3 started at 14/04/2018 23:31:06.
+InterfaceVersion: v2.8.3SP6
+ProductVersion:   8.9.0
+PrivateBuild:     112901
+
+23:31:07.836 TConnection.TriggerConnection - Timer counter > timer interval...
+23:31:07.837 psHost TProcessBuffer.Execute - Start - Thread ID: 8608

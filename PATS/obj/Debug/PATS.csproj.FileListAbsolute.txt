@@ -1,0 +1,13 @@
+E:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\PATSAPI.dll
+E:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\SSLSocketLib.dll
+E:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\com.ddsc.Pats.dll
+E:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\com.ddsc.Pats.pdb
+E:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\obj\Debug\com.ddsc.Pats.dll
+E:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\obj\Debug\com.ddsc.Pats.pdb
+E:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\obj\Debug\PATS.csprojResolveAssemblyReference.cache
+F:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\PATSAPI.dll
+F:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\SSLSocketLib.dll
+F:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\com.ddsc.Pats.dll
+F:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\bin\Debug\com.ddsc.Pats.pdb
+F:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\obj\Debug\com.ddsc.Pats.dll
+F:\ddsc\project\統一\外期中台\QuoteGW\V1.0.0.0\QuoteGW\PATS\obj\Debug\com.ddsc.Pats.pdb

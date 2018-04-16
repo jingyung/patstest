@@ -1,0 +1,286 @@
+20180416 08:37:33.567-Open Log File
+20180416 08:38:01.867-DoExchange begin
+20180416 08:38:01.871-DoExchange end
+20180416 08:38:01.871-DoCommdity begin
+20180416 08:38:01.880-DoCommdity end
+20180416 08:38:01.880-DoContract begin
+20180416 08:38:02.656-DoContract end
+20180416 08:38:02.656-SubscribeAll begin
+20180416 08:41:24.064-SubscribeAll end
+20180416 08:53:57.455-Open Log File
+20180416 08:54:25.747-DoExchange begin
+20180416 08:54:25.750-DoExchange end
+20180416 08:54:25.750-DoCommdity begin
+20180416 08:54:25.756-DoCommdity end
+20180416 08:54:25.757-DoContract begin
+20180416 08:54:26.527-DoContract end
+20180416 08:54:26.527-SubscribeAll begin
+20180416 08:54:26.527-SubscribeAll end
+20180416 08:58:51.841-Open Log File
+20180416 08:59:20.131-DoExchange begin
+20180416 08:59:20.132-DoExchange end
+20180416 08:59:20.132-DoCommdity begin
+20180416 08:59:20.137-DoCommdity end
+20180416 08:59:20.137-DoContract begin
+20180416 08:59:20.993-DoContract end
+20180416 08:59:20.993-SubscribeAll begin
+20180416 08:59:20.993-SubscribeAll end
+20180416 09:04:56.710-Open Log File
+20180416 09:05:24.042-DoExchange begin
+20180416 09:05:24.046-DoExchange end
+20180416 09:05:24.046-DoCommdity begin
+20180416 09:05:24.054-DoCommdity end
+20180416 09:05:24.054-DoContract begin
+20180416 09:05:24.803-DoContract end
+20180416 09:05:24.803-SubscribeAll begin
+20180416 09:05:24.803-SubscribeAll end
+20180416 09:08:07.640-Open Log File
+20180416 09:08:35.944-DoExchange begin
+20180416 09:08:35.948-DoExchange end
+20180416 09:08:35.948-DoCommdity begin
+20180416 09:08:35.951-DoCommdity end
+20180416 09:08:35.951-DoContract begin
+20180416 09:08:36.749-DoContract end
+20180416 09:08:36.749-SubscribeAll begin
+20180416 09:08:36.749-SubscribeAll end
+20180416 09:09:23.603-Open Log File
+20180416 09:09:51.940-DoExchange begin
+20180416 09:09:51.942-DoExchange end
+20180416 09:09:51.942-DoCommdity begin
+20180416 09:09:51.948-DoCommdity end
+20180416 09:09:51.948-DoContract begin
+20180416 09:09:52.803-DoContract end
+20180416 09:09:52.803-SubscribeAll begin
+20180416 09:09:52.803-SubscribeAll end
+20180416 09:12:43.972-Open Log File
+20180416 09:13:11.266-DoExchange begin
+20180416 09:13:11.270-DoExchange end
+20180416 09:13:11.271-DoCommdity begin
+20180416 09:13:11.278-DoCommdity end
+20180416 09:13:11.278-DoContract begin
+20180416 09:13:12.038-DoContract end
+20180416 09:13:12.038-SubscribeAll begin
+20180416 09:13:12.038-SubscribeAll end
+20180416 09:18:13.775-Open Log File
+20180416 09:18:52.080-DoExchange begin
+20180416 09:18:52.084-DoExchange end
+20180416 09:18:52.084-DoCommdity begin
+20180416 09:18:52.091-DoCommdity end
+20180416 09:18:52.091-DoContract begin
+20180416 09:18:52.878-DoContract end
+20180416 09:18:52.878-SubscribeAll begin
+20180416 09:18:52.878-SubscribeAll end
+20180416 09:46:09.536-Open Log File
+20180416 09:46:36.838-DoExchange begin
+20180416 09:46:36.842-DoExchange end
+20180416 09:46:36.842-DoCommdity begin
+20180416 09:46:36.850-DoCommdity end
+20180416 09:46:36.850-DoContract begin
+20180416 09:46:37.626-DoContract end
+20180416 09:46:37.627-SubscribeAll begin
+20180416 09:46:37.627-SubscribeAll end
+20180416 10:01:43.132-Open Log File
+20180416 10:02:11.566-DoExchange begin
+20180416 10:02:11.571-DoExchange end
+20180416 10:02:11.571-DoCommdity begin
+20180416 10:02:11.579-DoCommdity end
+20180416 10:02:11.579-DoContract begin
+20180416 10:02:12.427-DoContract end
+20180416 10:02:12.427-SubscribeAll begin
+20180416 10:02:12.427-SubscribeAll end
+20180416 10:05:57.433-Open Log File
+20180416 10:06:24.832-DoExchange begin
+20180416 10:06:24.837-DoExchange end
+20180416 10:06:24.837-DoCommdity begin
+20180416 10:06:24.845-DoCommdity end
+20180416 10:06:24.846-DoContract begin
+20180416 10:06:25.639-DoContract end
+20180416 10:06:25.639-SubscribeAll begin
+20180416 10:06:25.639-SubscribeAll end
+20180416 10:07:10.236-Open Log File
+20180416 10:07:58.349-DoExchange begin
+20180416 10:07:58.356-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.363-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.366-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.372-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.373-DoExchange end
+20180416 10:07:58.373-DoCommdity begin
+20180416 10:07:58.376-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.380-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.383-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.386-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.411-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.415-DoCommdity end
+20180416 10:07:58.417-DoContract begin
+20180416 10:07:58.417-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.421-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.446-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.493-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:58.521-_Pats_PriceTigger:並未將物件參考設定為物件的執行個體。   於 FTrade.DataAgent._Pats_PriceTigger(String ExchangeName, String ContractName, String ContractDate, PriceStruct ps) 於 E:\myproject\Patstest\Patstest\DataAgent.cs: 行 404Patstest
+20180416 10:07:59.292-DoContract end
+20180416 10:07:59.292-SubscribeAll begin
+20180416 10:07:59.292-SubscribeAll end
+20180416 10:10:01.512-Open Log File
+20180416 10:10:35.914-DoExchange begin
+20180416 10:10:35.918-DoExchange end
+20180416 10:10:35.918-DoCommdity begin
+20180416 10:10:35.926-DoCommdity end
+20180416 10:10:35.926-DoContract begin
+20180416 10:10:36.729-DoContract end
+20180416 10:10:36.729-SubscribeAll begin
+20180416 10:10:36.729-SubscribeAll end
+20180416 10:12:39.063-Open Log File
+20180416 10:13:09.453-DoExchange begin
+20180416 10:13:09.455-DoExchange end
+20180416 10:13:09.455-DoCommdity begin
+20180416 10:13:09.470-DoCommdity end
+20180416 10:13:09.470-DoContract begin
+20180416 10:13:10.456-DoContract end
+20180416 10:13:10.456-SubscribeAll begin
+20180416 10:13:10.456-SubscribeAll end
+20180416 10:16:36.680-Open Log File
+20180416 10:22:20.807-Open Log File
+20180416 10:22:51.198-DoExchange begin
+20180416 10:22:51.202-DoExchange end
+20180416 10:22:51.202-DoCommdity begin
+20180416 10:22:51.227-DoCommdity end
+20180416 10:22:51.227-DoContract begin
+20180416 10:22:52.174-DoContract end
+20180416 10:22:52.174-SubscribeAll begin
+20180416 10:22:52.174-SubscribeAll end
+20180416 10:27:41.088-Open Log File
+20180416 10:28:11.487-DoExchange begin
+20180416 10:28:11.490-DoExchange end
+20180416 10:28:11.490-DoCommdity begin
+20180416 10:28:11.512-DoCommdity end
+20180416 10:28:11.512-DoContract begin
+20180416 10:28:12.481-DoContract end
+20180416 10:28:12.481-SubscribeAll begin
+20180416 10:28:12.481-SubscribeAll end
+20180416 10:31:28.124-Open Log File
+20180416 10:32:23.870-Open Log File
+20180416 10:32:54.279-DoExchange begin
+20180416 10:32:54.282-DoExchange end
+20180416 10:32:54.282-DoCommdity begin
+20180416 10:32:54.308-DoCommdity end
+20180416 10:32:54.308-DoContract begin
+20180416 10:32:55.295-DoContract end
+20180416 10:32:55.295-SubscribeAll begin
+20180416 10:32:55.295-SubscribeAll end
+20180416 10:41:36.814-Open Log File
+20180416 10:42:07.202-DoExchange begin
+20180416 10:42:07.205-DoExchange end
+20180416 10:42:07.206-DoCommdity begin
+20180416 10:42:07.238-DoCommdity end
+20180416 10:42:07.238-DoContract begin
+20180416 10:42:08.188-DoContract end
+20180416 10:42:08.188-SubscribeAll begin
+20180416 10:42:08.188-SubscribeAll end
+20180416 10:49:54.795-Open Log File
+20180416 10:50:30.192-DoExchange begin
+20180416 10:50:30.197-DoExchange end
+20180416 10:50:30.197-DoCommdity begin
+20180416 10:50:30.225-DoCommdity end
+20180416 10:50:30.225-DoContract begin
+20180416 10:50:31.203-DoContract end
+20180416 10:50:31.203-SubscribeAll begin
+20180416 10:50:31.203-SubscribeAll end
+20180416 10:57:25.190-Open Log File
+20180416 10:57:55.605-DoExchange begin
+20180416 10:57:55.609-DoExchange end
+20180416 10:57:55.609-DoCommdity begin
+20180416 10:57:55.637-DoCommdity end
+20180416 10:57:55.637-DoContract begin
+20180416 10:57:56.559-DoContract end
+20180416 10:57:56.559-SubscribeAll begin
+20180416 10:57:56.559-SubscribeAll end
+20180416 11:10:07.281-Open Log File
+20180416 11:10:37.673-DoExchange begin
+20180416 11:10:37.677-DoExchange end
+20180416 11:10:37.677-DoCommdity begin
+20180416 11:10:37.699-DoCommdity end
+20180416 11:10:37.699-DoContract begin
+20180416 11:10:38.633-DoContract end
+20180416 11:10:38.633-SubscribeAll begin
+20180416 11:10:38.633-SubscribeAll end
+20180416 11:23:21.940-Open Log File
+20180416 11:23:52.323-DoExchange begin
+20180416 11:23:52.327-DoExchange end
+20180416 11:23:52.327-DoCommdity begin
+20180416 11:23:52.359-DoCommdity end
+20180416 11:23:52.359-DoContract begin
+20180416 11:23:53.362-DoContract end
+20180416 11:23:53.362-SubscribeAll begin
+20180416 11:23:53.362-SubscribeAll end
+20180416 11:35:01.670-Open Log File
+20180416 11:35:32.065-DoExchange begin
+20180416 11:35:32.068-DoExchange end
+20180416 11:35:32.068-DoCommdity begin
+20180416 11:35:32.094-DoCommdity end
+20180416 11:35:32.094-DoContract begin
+20180416 11:35:33.037-DoContract end
+20180416 11:35:33.037-SubscribeAll begin
+20180416 11:35:33.037-SubscribeAll end
+20180416 11:42:26.758-Open Log File
+20180416 11:42:57.165-DoExchange begin
+20180416 11:42:57.169-DoExchange end
+20180416 11:42:57.169-DoCommdity begin
+20180416 11:42:57.195-DoCommdity end
+20180416 11:42:57.195-DoContract begin
+20180416 11:42:58.140-DoContract end
+20180416 11:42:58.140-SubscribeAll begin
+20180416 11:42:58.140-SubscribeAll end
+20180416 12:07:27.191-Open Log File
+20180416 12:08:01.723-DoExchange begin
+20180416 12:08:01.724-DoExchange end
+20180416 12:08:01.724-DoCommdity begin
+20180416 12:08:01.734-DoCommdity end
+20180416 12:08:01.734-DoContract begin
+20180416 12:08:02.746-DoContract end
+20180416 12:08:02.746-SubscribeAll begin
+20180416 12:08:02.746-SubscribeAll end
+20180416 15:41:17.117-Open Log File
+20180416 15:41:47.488-DoExchange begin
+20180416 15:41:47.492-DoExchange end
+20180416 15:41:47.492-DoCommdity begin
+20180416 15:41:47.528-DoCommdity end
+20180416 15:41:47.528-DoContract begin
+20180416 15:41:48.405-DoContract end
+20180416 15:41:48.405-SubscribeAll begin
+20180416 15:41:48.405-SubscribeAll end
+20180416 16:19:25.724-Open Log File
+20180416 16:19:56.098-DoExchange begin
+20180416 16:19:56.103-DoExchange end
+20180416 16:19:56.103-DoCommdity begin
+20180416 16:19:56.134-DoCommdity end
+20180416 16:19:56.134-DoContract begin
+20180416 16:19:57.120-DoContract end
+20180416 16:19:57.120-SubscribeAll begin
+20180416 16:19:57.120-SubscribeAll end
+20180416 16:20:45.436-Open Log File
+20180416 16:21:15.839-DoExchange begin
+20180416 16:21:15.843-DoExchange end
+20180416 16:21:15.843-DoCommdity begin
+20180416 16:21:15.872-DoCommdity end
+20180416 16:21:15.872-DoContract begin
+20180416 16:21:16.795-DoContract end
+20180416 16:21:16.795-SubscribeAll begin
+20180416 16:21:16.795-SubscribeAll end
+20180416 16:38:13.945-Open Log File
+20180416 16:38:49.322-DoExchange begin
+20180416 16:38:49.326-DoExchange end
+20180416 16:38:49.326-DoCommdity begin
+20180416 16:38:49.357-DoCommdity end
+20180416 16:38:49.357-DoContract begin
+20180416 16:38:50.254-DoContract end
+20180416 16:38:50.254-SubscribeAll begin
+20180416 16:38:50.254-SubscribeAll end
+20180416 16:45:29.812-Open Log File
+20180416 16:46:03.224-DoExchange begin
+20180416 16:46:03.228-DoExchange end
+20180416 16:46:03.228-DoCommdity begin
+20180416 16:46:03.254-DoCommdity end
+20180416 16:46:03.254-DoContract begin
+20180416 16:46:04.220-DoContract end
+20180416 16:46:04.220-SubscribeAll begin
+20180416 16:46:04.220-SubscribeAll end
